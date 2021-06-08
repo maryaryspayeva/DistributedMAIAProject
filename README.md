@@ -15,7 +15,7 @@ Table of contents:
 ## Install
 
 ```sh
-git clone https://github.com/maryaryspayeva/maia-patient
+git clone https://github.com/maryaryspayeva/DistributedMAIAProject
 npm install
 node app.js
 ```
